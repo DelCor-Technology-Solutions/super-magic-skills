@@ -1,0 +1,7 @@
+{
+  "name": "delcor-<something>",
+  "owner": { "name": "DelCor Technology Solutions" },
+  "plugins": [
+    { "name": "the-plugin", "source": "./", "description": "..." }
+  ]
+}
