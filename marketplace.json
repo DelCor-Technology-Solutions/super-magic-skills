@@ -1,7 +1,16 @@
+mkdir -p .claude-plugin
+cat > .claude-plugin/marketplace.json <<'EOF'
 {
-  "name": "delcor-<something>",
+  "name": "delcor-skills",
   "owner": { "name": "DelCor Technology Solutions" },
   "plugins": [
-    { "name": "the-plugin", "source": "./", "description": "..." }
+    {
+      "name": "delcor-imported",
+      "source": "./",
+      "description": "Imported upstream skills"
+    }
   ]
 }
+EOF
+claude plugin validate .
+git add -A && git commit -m "Add marketplace manifest" && git push
