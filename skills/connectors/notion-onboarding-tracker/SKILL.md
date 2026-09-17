@@ -1,6 +1,6 @@
 ---
 name: Notion Onboarding Tracker
-description: Run a new-hire progress tracker in Notion — read trainee status, update checklist items and quiz results, and answer "how is <new hire> doing".
+description: Run a new-hire progress tracker in Notion — read trainee status, update checklist items and quiz results, and answer "how is [new hire] doing".
 category: Connectors
 tools: []
 connectors: [Notion]
@@ -14,7 +14,7 @@ outcome: [Staff Enablement, Time & Cost Savings (Capacity)]
 
 **When to use:** "Create an onboarding tracker for our new L1 starting Monday," "quiz <trainee> on phase 2 and record the score," or "how is <trainee> progressing?"
 
-**Run it:** across the trainee's whole tracker (run manually per training session).
+
 
 ## Prompt
 
