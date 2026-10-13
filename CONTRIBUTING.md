@@ -136,7 +136,7 @@ Roughly eight words replace sixty.
 
 **Where the name actually resolves — this decides how much the gloss has to carry.** In Super
 Magic, a member working conversationally, the agent can reach your other saved skills, so
-naming one pulls in its full contract. A **Super Magic Agent** is different: a Flow fires a
+naming one pulls in its full contract. An **Agent** built with Agent Builder is different: a Flow fires a
 *prompt*, and that prompt is all the agent gets. There is no skill lookup in a Flow, so a
 named base skill there is just words on the page.
 

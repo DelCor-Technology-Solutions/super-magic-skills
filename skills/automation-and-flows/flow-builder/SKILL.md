@@ -38,7 +38,7 @@ say so and make it a manual skill instead.
    priority/status/board/agreement/team, assign, Reply, Note, Auto-Prioritize/Categorize,
    Generate Title/Recap, Agent Builder) — anything else must run via Agent Builder's
    Run a Skill mode and that skill's own tools.
-   (The flow tools list Agent Builder as two actions: Run Skill and New Super Magic Agent.)
+   (The flow tools list Agent Builder's two modes as separate actions: Agent Builder for a prompt, Run Skill for a shared skill.)
 
 4. List the existing flows and check for ones on the same trigger and board. Flag overlaps:
    two flows firing on the same event can conflict or double-notify, and flow ordering may
