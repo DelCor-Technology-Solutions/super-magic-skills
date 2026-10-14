@@ -1,6 +1,6 @@
 # Thread Skills
 
-A community library of ready-to-use skills for **Super Magic** and Super Magic Agents. Each skill is a small, reusable prompt that tells the agent how to run one MSP workflow well: triaging a ticket, drafting a client reply, prepping a QBR, responding to a phishing report.
+A community library of ready-to-use skills for **Super Magic** and Agent Builder. Each skill is a small, reusable prompt that tells the agent how to run one MSP workflow well: triaging a ticket, drafting a client reply, prepping a QBR, responding to a phishing report.
 
 Read a skill, adapt the specifics to your stack, and paste it into Super Magic. Nothing here contains partner names, client data, or environment-specific detail.
 
